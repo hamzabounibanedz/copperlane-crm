@@ -8118,6 +8118,11 @@ msgstr "Copied to clipboard"
 msgid "Copies a Cloudflare setup prompt for your AI coding tool"
 msgstr "Copies a Cloudflare setup prompt for your AI coding tool"
 
+#. js-lingui-id: 5hbEWr
+#: src/pages/auth/SignInUp.tsx
+msgid "Copperlane source code"
+msgstr "Copperlane source code"
+
 #. js-lingui-id: he3ygx
 #: src/modules/log-console/components/LogConsoleDetailPanel.tsx
 #: src/modules/object-record/record-field/ui/hooks/useGetSecondaryFieldButton.ts
@@ -34315,10 +34320,10 @@ msgstr "Weekly personal AI usage reached. Now using workspace credits."
 msgid "weeks"
 msgstr "weeks"
 
-#. js-lingui-id: nTuObL
+#. js-lingui-id: 8bUrSb
 #: src/pages/auth/SignInUp.tsx
-msgid "Welcome to Twenty"
-msgstr "Welcome to Twenty"
+msgid "Welcome to Copperlane"
+msgstr "Welcome to Copperlane"
 
 #. js-lingui-id: t8ZvkC
 #: src/modules/ai-chat/workspace-setup/components/WorkspaceSetupChatPreamble.tsx

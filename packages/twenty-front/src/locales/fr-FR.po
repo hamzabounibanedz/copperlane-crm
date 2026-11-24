@@ -8123,6 +8123,11 @@ msgstr "Copié dans le presse-papiers"
 msgid "Copies a Cloudflare setup prompt for your AI coding tool"
 msgstr "Copie une invite de configuration Cloudflare pour votre outil de codage IA"
 
+#. js-lingui-id: 5hbEWr
+#: src/pages/auth/SignInUp.tsx
+msgid "Copperlane source code"
+msgstr ""
+
 #. js-lingui-id: he3ygx
 #: src/modules/log-console/components/LogConsoleDetailPanel.tsx
 #: src/modules/object-record/record-field/ui/hooks/useGetSecondaryFieldButton.ts
@@ -34320,10 +34325,10 @@ msgstr "Limite d’utilisation personnelle hebdomadaire de l’IA atteinte. Util
 msgid "weeks"
 msgstr "semaines"
 
-#. js-lingui-id: nTuObL
+#. js-lingui-id: 8bUrSb
 #: src/pages/auth/SignInUp.tsx
-msgid "Welcome to Twenty"
-msgstr "Bienvenue sur Twenty"
+msgid "Welcome to Copperlane"
+msgstr ""
 
 #. js-lingui-id: t8ZvkC
 #: src/modules/ai-chat/workspace-setup/components/WorkspaceSetupChatPreamble.tsx

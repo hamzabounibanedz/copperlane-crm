@@ -8123,6 +8123,11 @@ msgstr "Скопировано в буфер обмена"
 msgid "Copies a Cloudflare setup prompt for your AI coding tool"
 msgstr "Копирует подсказку по настройке Cloudflare для вашего инструмента программирования с ИИ"
 
+#. js-lingui-id: 5hbEWr
+#: src/pages/auth/SignInUp.tsx
+msgid "Copperlane source code"
+msgstr ""
+
 #. js-lingui-id: he3ygx
 #: src/modules/log-console/components/LogConsoleDetailPanel.tsx
 #: src/modules/object-record/record-field/ui/hooks/useGetSecondaryFieldButton.ts
@@ -34318,10 +34323,10 @@ msgstr "Достигнут недельный лимит личного испо
 msgid "weeks"
 msgstr "недели"
 
-#. js-lingui-id: nTuObL
+#. js-lingui-id: 8bUrSb
 #: src/pages/auth/SignInUp.tsx
-msgid "Welcome to Twenty"
-msgstr "Добро пожаловать в Twenty"
+msgid "Welcome to Copperlane"
+msgstr ""
 
 #. js-lingui-id: t8ZvkC
 #: src/modules/ai-chat/workspace-setup/components/WorkspaceSetupChatPreamble.tsx

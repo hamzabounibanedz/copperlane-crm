@@ -8123,6 +8123,11 @@ msgstr "Copiat al porta-retalls"
 msgid "Copies a Cloudflare setup prompt for your AI coding tool"
 msgstr "Copia una indicació de configuració de Cloudflare per a la vostra eina de programació d'IA"
 
+#. js-lingui-id: 5hbEWr
+#: src/pages/auth/SignInUp.tsx
+msgid "Copperlane source code"
+msgstr ""
+
 #. js-lingui-id: he3ygx
 #: src/modules/log-console/components/LogConsoleDetailPanel.tsx
 #: src/modules/object-record/record-field/ui/hooks/useGetSecondaryFieldButton.ts
@@ -34318,10 +34323,10 @@ msgstr "S'ha assolit l'ús personal setmanal d'IA. Ara s'utilitzen els crèdits 
 msgid "weeks"
 msgstr ""
 
-#. js-lingui-id: nTuObL
+#. js-lingui-id: 8bUrSb
 #: src/pages/auth/SignInUp.tsx
-msgid "Welcome to Twenty"
-msgstr "Benvingut a Twenty"
+msgid "Welcome to Copperlane"
+msgstr ""
 
 #. js-lingui-id: t8ZvkC
 #: src/modules/ai-chat/workspace-setup/components/WorkspaceSetupChatPreamble.tsx

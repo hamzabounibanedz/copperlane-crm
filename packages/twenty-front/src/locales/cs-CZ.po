@@ -8123,6 +8123,11 @@ msgstr "Zkopírováno do schránky"
 msgid "Copies a Cloudflare setup prompt for your AI coding tool"
 msgstr "Zkopíruje výzvu k nastavení Cloudflare pro váš nástroj AI pro programování"
 
+#. js-lingui-id: 5hbEWr
+#: src/pages/auth/SignInUp.tsx
+msgid "Copperlane source code"
+msgstr ""
+
 #. js-lingui-id: he3ygx
 #: src/modules/log-console/components/LogConsoleDetailPanel.tsx
 #: src/modules/object-record/record-field/ui/hooks/useGetSecondaryFieldButton.ts
@@ -34318,10 +34323,10 @@ msgstr "Byl dosažen týdenní limit osobního využití AI. Nyní se používaj
 msgid "weeks"
 msgstr ""
 
-#. js-lingui-id: nTuObL
+#. js-lingui-id: 8bUrSb
 #: src/pages/auth/SignInUp.tsx
-msgid "Welcome to Twenty"
-msgstr "Vítejte ve Twenty"
+msgid "Welcome to Copperlane"
+msgstr ""
 
 #. js-lingui-id: t8ZvkC
 #: src/modules/ai-chat/workspace-setup/components/WorkspaceSetupChatPreamble.tsx

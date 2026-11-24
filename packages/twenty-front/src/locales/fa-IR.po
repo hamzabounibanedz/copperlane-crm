@@ -8123,6 +8123,11 @@ msgstr "در کلیپ‌بورد کپی شد"
 msgid "Copies a Cloudflare setup prompt for your AI coding tool"
 msgstr "یک اعلان راه‌اندازی Cloudflare را برای ابزار کدنویسی هوش مصنوعی شما کپی می‌کند"
 
+#. js-lingui-id: 5hbEWr
+#: src/pages/auth/SignInUp.tsx
+msgid "Copperlane source code"
+msgstr ""
+
 #. js-lingui-id: he3ygx
 #: src/modules/log-console/components/LogConsoleDetailPanel.tsx
 #: src/modules/object-record/record-field/ui/hooks/useGetSecondaryFieldButton.ts
@@ -34318,10 +34323,10 @@ msgstr "سقف استفاده شخصی هفتگی از هوش مصنوعی رس�
 msgid "weeks"
 msgstr "هفته‌ها"
 
-#. js-lingui-id: nTuObL
+#. js-lingui-id: 8bUrSb
 #: src/pages/auth/SignInUp.tsx
-msgid "Welcome to Twenty"
-msgstr "به Twenty خوش آمدید"
+msgid "Welcome to Copperlane"
+msgstr ""
 
 #. js-lingui-id: t8ZvkC
 #: src/modules/ai-chat/workspace-setup/components/WorkspaceSetupChatPreamble.tsx
