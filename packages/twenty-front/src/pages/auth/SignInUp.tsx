@@ -128,7 +128,7 @@ export const SignInUp = () => {
     }
 
     if (isGlobalScope) {
-      return t`Welcome to Twenty`;
+      return t`Welcome to Copperlane`;
     }
 
     const workspaceName = workspacePublicData?.displayName;
@@ -232,7 +232,7 @@ export const SignInUp = () => {
       ) : (
         <SignInUpStandardContent
           workspacePublicData={workspacePublicData}
-          signInUpForm={signInUpForm}
+          signInUpForm={<>{signInUpForm}<small><a href="https://github.com/hamzabounibanedz/copperlane-crm">{t`Copperlane source code`}</a></small></>}
           signInUpStep={signInUpStep}
           title={title}
           onClickOnLogo={onClickOnLogo}
